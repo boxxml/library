@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+<channel>
+<name>LANÇAMENTOS</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/lan%C3%A7amentos.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>MELHORES LANÇAMENTOS DO ANO VOCÊ ENCONTRA AQUI COM ALTA QUALIDADE VOCÊ TAMBÉM PODE PROGRAMAR UM FILME QUE AINDA ESTÁ EM EXIBIÇÃO NO CINEMA PARA SE ADICIONADO MAIS RÁPIDO POSSÍVEL COM ALTA QUALIDADE</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/movies/%4002.xml</externallink>
+</channel>
+
+  
+</channels>
