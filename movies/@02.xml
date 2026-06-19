@@ -12,12 +12,12 @@
 </item>
 
 <item> 
-<title>Uma Segunda Chance</title>
+<title>Uma Segunda Chance TESTE</title>
 <year>2026</year>
 <genre>Romance e Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/yC3byha23vhC2GMR139p4W42n36.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5rxEnsgriw8z065q51lrvPKYmCL.jpg</fanart>
-<link>plugin://flixbox.oficial.play/?action=play&video=https://ia601802.us.archive.org/34/items/f-i-l-m-e-s.01/1367642.mkv</link>
+<link>plugin://flixbox.oficial.play/?action=play&video=https%3A%2F%2Fia601802.us.archive.org%2F34%2Fitems%2Ff-i-l-m-e-s.01%2F1367642.mkv</link>
 <info>Kenna comete um erro imperdoável que a leva à prisão. Sete anos depois, ela retorna à sua cidade natal, no Wyoming, na esperança de reconstruir a vida e conquistar a chance de se reencontrar com sua filha pequena, a quem nunca conheceu.</info>
 </item>
 
