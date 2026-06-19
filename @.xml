@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>TV AO VIVO</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/iptv.png</thumbnail>
+<fanart>https://i.pinimg.com/1200x/23/30/d3/2330d3a940e74014e1b331ec4228fba4.jpg</fanart>
+<info>ATENÇÃO: ESSA OPÇÃO ESTÁ EM DESENVOLVIMENTO NO MOMENTO, PODE TER FALHA NA REPRODUÇÃO OU LENTIDÃO</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/iptv.xml</externallink>
+</channel>
+
+
+<channel>
+<name>FILMES</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Filmes2.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>MELHORES FILMES COM QUALIDADE VOCÊ ENCONTRA AQUI NO FLIXBOX OFICIAL, CASO NÃO ENCONTRE SEUS FILMES FAVORITOS VOCÊ PODE ENVIAR SUAS SUGESTÕES E VEREMOS A POSSIBILIDADE DE SER ADICIONADO.
+
+SE ALGUM FILME ESTIVER COM TRAVAMENTO OU  NÃO CONSEGUIR REPRODUZIR VOCÊ PODE ME AVISAR QUE SERÁ CORRIGIDO MAIS RÁPIDO POSSÍVEL.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/menu.xml</externallink>
+</channel>
+
+<channel>
+<name>SÉRIES</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries2.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>AS SÉRIES SERÁ ADICIONADO DE ACORDO COM SUAS SUGESTÕES POIS AS SÉRIES DÁ MUITO MAIS TRABALHO DO QUE FILMES NÃO POSSO COLOCAR SÉRIES ALEATÓRIO, EM BREVE SERÁ POSSÍVEL.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/menu.xml</externallink>
+</channel>
+
+
+  
+</channels>
