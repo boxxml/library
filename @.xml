@@ -2,15 +2,6 @@
 <channels>
 
 <channel>
-<name>TV AO VIVO</name>
-<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/iptv.png</thumbnail>
-<fanart>https://i.pinimg.com/1200x/23/30/d3/2330d3a940e74014e1b331ec4228fba4.jpg</fanart>
-<info>ATENÇÃO: ESSA OPÇÃO ESTÁ EM DESENVOLVIMENTO NO MOMENTO, PODE TER FALHA NA REPRODUÇÃO OU LENTIDÃO</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/iptv.xml</externallink>
-</channel>
-
-
-<channel>
 <name>FILMES</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Filmes2.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
@@ -25,7 +16,7 @@ SE ALGUM FILME ESTIVER COM TRAVAMENTO OU  NÃO CONSEGUIR REPRODUZIR VOCÊ PODE M
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries2.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AS SÉRIES SERÁ ADICIONADO DE ACORDO COM SUAS SUGESTÕES POIS AS SÉRIES DÁ MUITO MAIS TRABALHO DO QUE FILMES NÃO POSSO COLOCAR SÉRIES ALEATÓRIO, EM BREVE SERÁ POSSÍVEL.</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/menu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/%4001.xml</externallink>
 </channel>
 
 
