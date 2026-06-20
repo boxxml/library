@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+<channel>
+<name>1ª Temporada</name>
+<year>2021</year>
+<genre>Animação, Comédia, Drama, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/mRUlHUWrBeuDmgDBCo3RnlZvwOs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg</fanart>
+<info>A 1ª temporada de Hotel Hazbin começou a ser exibida em 18 de janeiro de 2024.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/94954/01.xml</externallink>
+</channel>
+
+<channel>
+<name>2ª Temporada</name>
+<year>2024</year>
+<genre>Animação, Comédia, Drama, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/hdOeeEVqhvKR5sh8gDAp4WwSiHQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg</fanart>
+<info>Após a vitória de Charlie contra o exército do Céu, o Hotel está lotado de novos hóspedes. Para o desgosto de Charlie, muitos deles buscam vingança, não redenção. Enquanto isso, os Vees tentam tirar proveito da instabilidade do Inferno e usar as crescentes tensões com o Céu a seu favor.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/94954/02.xml</externallink>
+</channel>
+
+
+  
+</channels>

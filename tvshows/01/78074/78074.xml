@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+<channel>
+<name>1ª Temporada</name>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/yIVyKiswSoy2VV4nHn62Wn5esqK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/01.xml</externallink>
+</channel>
+
+<channel>
+<name>2ª Temporada</name>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/1iUHQnFE9oUn83Ge3gpvAkFOHIE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/02.xml</externallink>
+</channel>
+
+<channel>
+<name>3ª Temporada</name>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/bUwvkCfZ5szORhDKLcxWXqyHqth.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/03.xml</externallink>
+</channel>
+
+<channel>
+<name>4ª Temporada</name>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/j6AFqa6swSjeisLwELB70FeqUf8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/04.xml</externallink>
+</channel>
+
+<channel>
+<name>5ª Temporada</name>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/jXbyHoWRibTScFfKT6sfllct2vy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/05.xml</externallink>
+</channel>
+
+
+  
+</channels>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>LANÇAMENTOS</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20lan%C3%A7amentos.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>AQUI VOCÊ PODE ENCONTRAR NOVAS TEMPORADAS OU NOVAS SÉRIES RECÉM LANÇADAS PARA TE MANTER SEMPRE ATUALIZADO</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/lancamentos.xml</externallink>
+</channel>
+
+<channel>
+<name>SUGESTÕES</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20Sugest%C3%B5es.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>AQUI VOCÊ ENCONTRA SUGESTÕES DE SÉRIES QUE FORAM ENVIADAS PARA FLIXBOX, AJUDE NÓS EVOLUIR ENVIANDO SUAS SUGESTÕES DE SÉRIES.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/Sugest%C3%B5es.xml</externallink>
+</channel>
+
+<channel>
+<name>TÍTULOS</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20T%C3%ADtulos.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>AQUI É O LUGAR CERTO PARA VOCÊ LOCALIZAR SUAS SÉRIES, CASO NÃO ENCONTRE, VOCÊ PODE ENVIAR SUAS SUGESTÕES É VEREMOS A POSSIBILIDADE DE SER ADICIONADO</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/todos-padrao.xml</externallink>
+</channel>
+  
+</channels>
