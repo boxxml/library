@@ -13,6 +13,16 @@
 </channel>
 
 <channel>
+<name>As Visões da Raven</name>
+<year>2003</year>
+<genre>Comédia e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iacQ5HfRg7GEKpdOvHGFSh5t4xD.jpg</fanart>
+<info>Raven Baxter é uma típica adolescente, mas com poderes psíquicos! Ela adora prever o futuro e com a ajuda de seus amigos, Eddie e Chelsea, elabora planos para alterar o que vai acontecer. Juntos eles criam mais problemas do que os resolvem de uma maneira muito engraçada!</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/4602/4602.xml</externallink>
+</channel>
+
+<channel>
 <name>Ash vs Evil Dead</name>
 <year>2015</year>
 <genre>Comédia, Action & Adventure e Sci-Fi & Fantasy</genre>
