@@ -3,16 +3,6 @@
 <!-- SERIES LETRA A INCIAL -->
 
 <channel>
-<name>A Casa dos Espíritos</name>
-<year>2026</year>
-<genre>Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kTlxqbLRDlLKXDkmp8ObmR4OuDC.jpg</fanart>
-<info>A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/259702/01.xml</externallink>
-</channel>
-
-<channel>
 <name>Ash vs Evil Dead</name>
 <year>2015</year>
 <genre>Comédia, Action & Adventure e Sci-Fi & Fantasy</genre>
@@ -20,116 +10,6 @@
 <fanart>https://image.tmdb.org/t/p/original/bIna9BL7Uny1hM63ntTI9BpRkRJ.jpg</fanart>
 <info>30 anos depois, o caçador de demônios Ash Williams está de volta para enfrentar uma nova praga Deadite. Ele pode ter perdido a mão, mas não o seu toque.</info>
 <externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/62264/62264.xml</externallink>
-</channel>
-
-<channel>
-<name>A Feia Mais Bela</name>
-<year>2006</year>
-<genre>Soap, Comédia e Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/2jI4b5eHHZ9dZ2kb0ULDKUiAhze.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg</fanart>
-<info>Lety é uma garota tímida, romântica e muito inteligente, mas feia. Em todas as empresas, uma vaga de emprego é negada devido a seu físico. Por conta disso, aceita trabalhar como secretária da produtora Conceitos, a mais famosa do país.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/11721.xml</externallink>
-</channel>
-
-<channel>
-<name>A Magia das Sereias</name>
-<year>2024</year>
-<genre>Animação, Kids, Action & Adventure, Comédia, Família e Sci-Fi & Fantasy</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9cjwAiNhMJyCwRlqf3f03X9uJjb.jpg</fanart>
-<info>Para salvar seu reino, uma princesa sereia muito determinada e sua turma precisam unir forças com as criaturas mais assustadoras de todas: os seres humanos.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/231725/01.xml</externallink>
-</channel>
-
-<channel>
-<name>A Nobreza do Amor</name>
-<year>2026</year>
-<genre>Drama, Sci-Fi & Fantasy e Soap</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/fdrirlMBVi3rtZ2CQyE9R18vuLB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wJybYZUCFj1xUQOjXLyxfVFNKlb.jpg</fanart>
-<info>Ambientada nos anos 1920, uma princesa africana deposta por uma convulsão política em seu reino. Ela foge para o interior de Pernambuco, no Brasil, onde vive um romance proibido com um trabalhador rural. A trama, que tem início na África e se desenvolve no Nordeste brasileiro, mistura fábula, melodrama e crítica social, buscando dar visibilidade à cultura e à representatividade negra, com um elenco diverso e uma protagonista forte que luta pela retomada de seu trono e pela libertação de seu povo.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/301557.xml</externallink>
-</channel>
-
-<channel>
-<name>Avenida Brasil</name>
-<year>2012</year>
-<genre>Soap, Drama, Mistério e Crime</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/p8uzK1Lngu9q9dpnn4SwPKIT1H7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg</fanart>
-<info>Rita é abandonada no lixão pela madrasta após seu pai morrer. Anos depois e sob nova identidade, a menina se infiltra na mansão da nova família de Carminha para se vingar dela.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/45815.xml</externallink>
-</channel>
-
-<channel>
-<name>Amor à Vida</name>
-<year>2013</year>
-<genre>Soap, Drama e Família</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9vqqstyyhaO6b7Zc3VJgjzpWMJi.jpg</fanart>
-<info>Anos após ter sua filha roubada, Paloma fica frente a frente com o homem acusado do crime. A médica, porém, nem desconfia que o irmão, o invejoso Félix, é o verdadeiro culpado.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/59599.xml</externallink>
-</channel>
-
-<channel>
-<name>Alien: Earth</name>
-<year>2025</year>
-<genre>Sci-Fi & Fantasy, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/kGbG5qlZrQzdYxpGYhzAChvFp5l.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg</fanart>
-<info>Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/157239/01.xml</externallink>
-</channel>
-
-<channel>
-<name>Ângela Diniz: Assassinada e Condenada</name>
-<year>2025</year>
-<genre>Drama e Crime</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/vv06mGgXN8nJ6N7BRWAMRf41dRY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oib0JzlgECslnXdTkvRmL9i6STp.jpg</fanart>
-<info>Inspirada na história real da socialite brasileira Ângela Diniz, esta minissérie retrata como sua vida, seu assassinato em 1976, e o julgamento que se seguiu se tornaram um marco na história do feminismo e do sistema judiciário brasileiro.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/260637.xml</externallink>
-</channel>
-
-<channel>
-<name>Agatha Desde Sempre</name>
-<year>2024</year>
-<genre>Sci-Fi & Fantasy, Mistério</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/4TnWiIc9VFqX1HKU4HJ8vNWKHvX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ymTx7ebsmBjqh47fiZnBUjIDx5K.jpg</fanart>
-<info>A infame Agatha Harkness encontra-se sem poderes depois de um jovem gótico suspeito ajudá-la a se libertar de um feitiço distorcido. Ela se mostra interessada quando ele pede que seja levado ao lendário Caminho das Bruxas, um caminho mágico de provações que recompensará a bruxa sobrevivente com o que lhe falta. Juntos, Agatha e esse misterioso Jovem reúnem um coven desesperado e partem para o Caminho...</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/138501.xml</externallink>
-</channel>
-
-<channel>
-<name>Assassino Zen</name>
-<year>2024</year>
-<genre>Comédia, Crime, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/hDeNBn5YQCm355bchc2hl7cr1yY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rsLZK4xAw1Oun0T5UWfG213qalP.jpg</fanart>
-<info>Buscando o equilíbrio, um advogado da máfia faz um curso de atenção plena e descobre estratégias surpreendentes para lidar com o estresse, inclusive o assassinato.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/252372/01.xml</externallink>
-</channel>
-
-<channel>
-<name>Anderson Spider Silva</name>
-<year>2024</year>
-<genre>Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/aBwB6n8hQ5lLcc3WpCSvXqz9Pv8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xH5I170yhOWXvIQz8euf4ZrqW72.jpg</fanart>
-<info>Quantas barreiras um campeão precisa superar para se tornar o ícone negro de sua geração? A trajetória de Anderson SPIDER Silva através das vitórias e derrotas, dentro e fora do ringue.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/236400.xml</externallink>
-</channel>
-
-<channel>
-<name>Arcanjo Renegado</name>
-<year>2020</year>
-<genre>Drama, Action & Adventure</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/htQ7JUhr477DjWapcDVQc9gRUQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3qlrGS5CLSOLk4YiiBqQLEtBh9j.jpg</fanart>
-<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
-<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/99125/99125.xml</externallink>
 </channel>
 
 
