@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>FILMES | NACIONAIS</name>
+<genre></genre>
+<thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Filmes-Nacionais.png?raw=true</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>BONS FILMES NACIONAIS, ALGUNS MAIS CONHECIDOS, OUTROS MENOS, ALGUNS BONS, OUTROS NEM TANTO, PORÉM TODOS BOAS EXPERIÊNCIAS CINEMATOGRÁFICAS DO CENÁRIO NACIONAL.
+PARA DEIXAR DE PRECONCEITO, PARA DEIXAR DE DIZER "ODEIO CINEMA NACIONAL" (OU NÃO)
+VALE A PENA CONHECER NOSSOS FILMES!</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/</externallink>
+</channel>
+
+<channel>
+<name>FILMES | INFANTIS</name>
+<genre></genre>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/filmes-Infantil.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>EM BUSCA DE FILMES INFANTIS? SELECIONAMOS UMA LISTA REPLETA DE ÓTIMOS TÍTULOS DESSE GÊNERO CINEMATOGRÁFICO.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/kids.xml</externallink>
+</channel>
+
+<channel>
+<name>FILMES | CLÁSSICOS</name>
+<genre></genre>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/filme-Cl%C3%A1ssicos.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>As produções que fizeram a alegria de quem, assim como eu, foi adolescente famosa ''SESSÃO DA TARDE'' (que atualmente está ameaçada de ''extinção'') é exibida pela Rede Globo desde 05 de março de 1974 ou seja, a 40 anos. ''Sessão da Tarde é um programa de televisão brasileiro, uma sessão de filmes exibida pela Rede Globo de segunda a sexta-feira após o Vídeo Show. É exibido nas tardes da emissora desde o dia 5 de março de 1974 , sendo uma das sessões de filmes mais duradouras e conhecidas da televisão brasileira.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/Cl%C3%A1ssicos.xml</externallink>
+</channel>
+
+<channel>
+<name>FILMES | FAROESTE</name>
+<genre>Faroeste</genre>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Filmes-Faroeste.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>OS MELHORES FILMES DE FAROESTE DE TODOS OS TEMPOS</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/.xml</externallink>
+</channel>
+
+<channel>
+<name>FILMES | LUTA</name>
+<genre></genre>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/luta.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>CONFIRA A SEGUIR A SELEÇÃO DE MELHORES FILMES COM LUTAS INCRÍVEIS.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/luta.xml</externallink>
+</channel>
+
+  
+</channels>
