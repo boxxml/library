@@ -13,6 +13,17 @@
 </channel>
 
 <channel>
+<name>A Nova Super Máquina</name>
+<year>2008</year>
+<genre>Drama, Action & Adventure e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/63Sp9y9X0P9LTMZVCeg96uAYJeW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg</fanart>
+<info>"A Nova Super Máquina" é uma versão moderna do clássico dos anos 1980 chamada “A Super Máquina”. Este seriado mostra o filho de Michael Knight, que utilizando o K.I.T.T., o carro mais descolado de todos os tempos, luta contra o crime. A clássica série de velocidade e ação está de volta com mais adrenalina do que nunca. Embarque nas novas aventuras a bordo de um K.I.T.T. modernizado e aperte os cintos nessa corrida contra o crime.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/15655.xml</externallink>
+</channel>
+
+
+<channel>
 <name>As Visões da Raven</name>
 <year>2003</year>
 <genre>Comédia e Sci-Fi & Fantasy</genre>
