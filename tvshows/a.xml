@@ -13,6 +13,15 @@
 </channel>
 
 <channel>
+<name>A Casa do Dragão</name>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg</fanart>
+<info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/94997/94997.xml</externallink>
+</channel>
+
+<channel>
 <name>A Casa dos Espíritos</name>
 <year>2026</year>
 <genre>Drama</genre>
