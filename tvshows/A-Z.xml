@@ -2,6 +2,14 @@
 <channels>
 
 <channel>
+<name>MINISSÉRIES</name>
+<thumbnail>https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/SA.gif?raw=true</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>Séries que começam com a letra A</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/a.xml</externallink>
+</channel>
+
+<channel>
 <name>DESENHOS</name>
 <thumbnail>https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/SA.gif?raw=true</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
@@ -18,7 +26,7 @@
 </channel>
 
 <channel>
-<name>SÉRIES A-Z</name>
+<name>NOVELAS</name>
 <thumbnail>https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/SA.gif?raw=true</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>Séries que começam com a letra A</info>
