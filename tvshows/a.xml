@@ -13,6 +13,17 @@
 </channel>
 
 <channel>
+<name>A Casa dos Espíritos</name>
+<year>2026</year>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kTlxqbLRDlLKXDkmp8ObmR4OuDC.jpg</fanart>
+<info>A Casa dos Espíritos é uma saga familiar de 8 episódios que mostra as vidas de mulheres revolucionárias e resilientes - Clara, a avó; Blanca, a filha; e Alba, a neta - ao longo de meio século em um país sul-americano remoto e conservador forjado por desastres, conflito de classes e magia.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/259702/01.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Ash vs Evil Dead</name>
 <year>2015</year>
 <genre>Comédia, Action & Adventure e Sci-Fi & Fantasy</genre>
