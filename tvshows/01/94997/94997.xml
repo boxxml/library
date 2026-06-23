@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+<channel>
+<name>1ª Temporada</name>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg</fanart>
+<info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/94997/01.xml</externallink>
+</channel>
+
+<channel>
+<name>2ª Temporada</name>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/tqWF1vSDKXSiQaRaFkep3ofvyzQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg</fanart>
+<info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/94997/02.xml</externallink>
+</channel>
+
+<channel>
+<name>3ª Temporada</name>
+<genre>Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/ldsFUDX01jd30L7kWzAX0qzstRQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg</fanart>
+<info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/94997/03.xml</externallink>
+</channel>
+
+
+  
+</channels>
