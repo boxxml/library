@@ -3,6 +3,16 @@
 <!-- SERIES LETRA A INCIAL -->
 
 <channel>
+<name>A Dama</name>
+<year>2026</year>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/gIMB0HGnztNwdWln7xFR6vkhbzo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg</fanart>
+<info>Camareira real Jane Andrews saiu da pobreza e chegou ao palácio, até que uma condenação por homicídio acabou com seu conto de fadas.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/298425.xml</externallink>
+</channel>
+
+<channel>
 <name>Ash vs Evil Dead</name>
 <year>2015</year>
 <genre>Comédia, Action & Adventure e Sci-Fi & Fantasy</genre>
