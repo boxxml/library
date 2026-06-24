@@ -10,6 +10,14 @@
 </channel>
 
 <channel>
+<name>Sugestões</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20lan%C3%A7amentos.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>AQUI VOCÊ PODE ENCONTRAR NOVAS TEMPORADAS OU NOVAS SÉRIES RECÉM LANÇADAS PARA TE MANTER SEMPRE ATUALIZADO</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/Sugestões.xml</externallink>
+</channel>
+
+<channel>
 <name>CATEGORIAS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20T%C3%ADtulos.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
