@@ -13,6 +13,15 @@
 </channel>
 
 <channel>
+<name>Avatar: O Último Mestre do Ar</name>
+<genre>Action & Adventure, Drama, Família e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg</fanart>
+<info>Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/82452/02.xml</externallink>
+</channel>
+
+<channel>
 <name>S01E01 - Long Days Journey Into Night</name>
 <year>2003</year>
 <genre>Comédia e Sci-Fi & Fantasy</genre>
