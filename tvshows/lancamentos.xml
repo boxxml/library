@@ -2,6 +2,16 @@
 <channels>
 
 <channel>
+<name>Origem</name>
+<year>1989</year>
+<genre>Crime, Comédia, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg</fanart>
+<info>A 3ª temporada de Origem começou a ser exibida em 22 de setembro de 2024.</info>
+<externallink>https://raw.githubusercontent.com/boxxml/library/refs/heads/main/tvshows/01/124364/04.xml</externallink>
+</channel>
+
+<channel>
 <name>Rick e Morty</name>
 <genre>Animação, Comédia, Sci-Fi & Fantasy e Action & Adventure </genre>
 <thumbnail>https://image.tmdb.org/t/p/original/qo07tk7mF3c63G7MktMVA2GApZt.jpg</thumbnail>
